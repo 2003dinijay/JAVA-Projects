@@ -1,0 +1,14 @@
+controller\LoginServlet.class
+dao\BookDAO.class
+controller\filter\AuthFilter.class
+dao\ReservationDAO.class
+controller\JSONObject.class
+controller\LogoutServlet.class
+model\Book.class
+com\mycompany\library\resources\JakartaEE8Resource.class
+controller\ReservationServlet.class
+dao\UserDAO.class
+model\Reservation.class
+controller\BookServlet.class
+model\User.class
+com\mycompany\library\JakartaRestConfiguration.class
